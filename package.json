@@ -1,0 +1,26 @@
+{
+  "name": "bsky-list-generator",
+  "version": "0.0.0",
+  "description": "A custom feed generator for Bluesky, where users followed by a given account will be categorized into various lists. Inspired by the Furry List.",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PlatinumCatgirl/bsky-list-generator.git"
+  },
+  "author": "PlatinumCatgirl <PlatinumCatgirl@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PlatinumCatgirl/bsky-list-generator/issues"
+  },
+  "homepage": "https://github.com/PlatinumCatgirl/bsky-list-generator#readme",
+  "devDependencies": {
+    "@types/node": "^20.8.8",
+    "env-cmd": "^10.1.0",
+    "jest": "^29.7.0",
+    "prettier": "^3.0.3",
+    "rimraf": "^5.0.5",
+    "turbo": "^1.10.16",
+    "typescript": "^5.2.2"
+  }
+}
